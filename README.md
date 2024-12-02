@@ -7,7 +7,7 @@ _Thank you for reading and enjoy playing with it!_
 
 
 
-**Módulo-1-Evaluación-Final**
+**Módulo 1 Evaluación Final**
 
 En este módulo hemos trabajado con las _clases en Python_, mi proyecto simula una tienda de ropa online. Aparecen reflejados diferentes métodos muy útiles para la gestión y administración cotidiana de un negocio, como por ejemplo, añadir, eliminar, buscar y calcular el total de nuestro inventario, gestionar base de datos de clientes, realizar compras y llevar diversos cálculos en base a esas compras. 
 He aprendido mucho con la implementación y el ensayo-error de todos estos métodos. Pude enfrentarme a desafíos interesantes, como la gestión dinámica del inventario, el manejo de clientes y la integración de múltiples funcionalidades. Aunque sin duda, los apartados más complejos para mí fueron los números 7 y 11. De ellos, el que más horas me ha tomado ha sido el referente a realizar compras, ya que requería manejar diversas interacciones con el cliente, actualizar el inventario en tiempo real y calcular el costo total de la compra. Fue uno de los mayores retos en este módulo pero también fue uno de los métodos con el que más he acabado aprendiendo. 
